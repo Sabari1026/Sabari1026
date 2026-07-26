@@ -16,7 +16,7 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🎓 **B.E. Computer Science Engineering (Data Science)** student
+- 🎓 **B.TECH. Computer Science Engineering (Data Science)** student
 - 📍 Based in **Tamil Nadu, India**
 - 💡 Passionate about **full-stack development, AI/ML, and interactive UI (React, Three.js, GSAP)**
 - 🔭 Currently building AI-powered, real-world web platforms
