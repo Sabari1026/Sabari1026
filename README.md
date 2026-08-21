@@ -87,7 +87,7 @@
 #### 🖐️ [HANDFIT-APP](https://github.com/Sabari1026/handfit-app)
 Full-stack AI application with a dedicated frontend, backend, and database layer, deployed live for real-time use.
 
-`JavaScript` `Full-Stack` `Vercel` — [🔗 Live Demo](handfit-app.vercel.app)
+`JavaScript` `Full-Stack` `Vercel` — [🔗 Live Demo](https://handfit-app.vercel.app/)
 
 </td>
 <td width="50%">
