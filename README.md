@@ -84,10 +84,10 @@
 <tr>
 <td width="50%">
 
-#### 🖐️ [HAND-METRICS-AI](https://github.com/Sabari1026/HAND-METRICS-AI)
+#### 🖐️ [HANDFIT-APP](https://github.com/Sabari1026/handfit-app)
 Full-stack AI application with a dedicated frontend, backend, and database layer, deployed live for real-time use.
 
-`JavaScript` `Full-Stack` `Vercel` — [🔗 Live Demo](https://hand-metrics-ai.vercel.app)
+`JavaScript` `Full-Stack` `Vercel` — [🔗 Live Demo](handfit-app.vercel.app)
 
 </td>
 <td width="50%">
